@@ -11,9 +11,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Full+Stack+Applications;Crafting+Interactive+UI%2FUX+Experiences;Backend+Architecture+%7C+REST+APIs+%7C+JWT+Auth;Focused+on+Real+World+Product+Development" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=1f6feb&labelColor=111827" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=facc15&labelColor=111827" />
+  <img src="https://komarev.com/ghpvc/?username=darshwebdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/darshwebdev?style=for-the-badge&color=1f6feb&labelColor=111827" />
+  <img src="https://img.shields.io/github/stars/darshwebdev?style=for-the-badge&color=facc15&labelColor=111827" />
 </p>
 
 </div>
@@ -222,13 +222,13 @@ An employee task management dashboard with separate admin and employee panels de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshwebdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshwebdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshwebdev&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshwebdev&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -271,7 +271,7 @@ An employee task management dashboard with separate admin and employee panels de
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/darshwebdev">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -305,7 +305,7 @@ An employee task management dashboard with separate admin and employee panels de
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/darshwebdev/darshwebdev/output/snake.svg" />
 
 </div>
 
