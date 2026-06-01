@@ -1,7 +1,7 @@
 <!-- =============================== -->
 <!--         PREMIUM HEADER          -->
 <!-- =============================== -->
-[![RepoRanker](https://reporanker.com/badge/Darshwebdev/MealReel)](https://reporanker.com/repos/Darshwebdev/MealReel)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Darsh%20Desai&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&fontSize=55&desc=MERN%20Stack%20Developer%20•%20Full%20Stack%20Product%20Builder&descAlignY=60&animation=fadeIn" />
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/followers/darshwebdev?style=for-the-badge&color=1f6feb&labelColor=111827" />
   <img src="https://img.shields.io/github/stars/darshwebdev?style=for-the-badge&color=facc15&labelColor=111827" />
 </p>
-
+[![RepoRanker](https://reporanker.com/badge/Darshwebdev/MealReel)](https://reporanker.com/repos/Darshwebdev/MealReel)
 </div>
 
 ---
