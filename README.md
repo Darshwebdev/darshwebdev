@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/followers/darshwebdev?style=for-the-badge&color=1f6feb&labelColor=111827" />
   <img src="https://img.shields.io/github/stars/darshwebdev?style=for-the-badge&color=facc15&labelColor=111827" />
 </p>
-[![RepoRanker](https://reporanker.com/badge/Darshwebdev/MealReel)](https://reporanker.com/repos/Darshwebdev/MealReel)
+<!-- [![RepoRanker](https://reporanker.com/badge/Darshwebdev/MealReel)](https://reporanker.com/repos/Darshwebdev/MealReel) -->
 </div>
 
 ---
