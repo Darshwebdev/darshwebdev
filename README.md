@@ -1,7 +1,7 @@
 <!-- =============================== -->
 <!--         PREMIUM HEADER          -->
 <!-- =============================== -->
-
+[![RepoRanker](https://reporanker.com/badge/Darshwebdev/MealReel)](https://reporanker.com/repos/Darshwebdev/MealReel)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Darsh%20Desai&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&fontSize=55&desc=MERN%20Stack%20Developer%20•%20Full%20Stack%20Product%20Builder&descAlignY=60&animation=fadeIn" />
