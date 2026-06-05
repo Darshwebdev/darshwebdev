@@ -89,9 +89,7 @@ Features:
 
 ## Connect With Me
 
-* LinkedIn: [Add Link]
 * GitHub: https://github.com/darshwebdev
-* Portfolio: [Add Link]
-* Email: [Add Email]
+* Email: darshdesai2504@gmail.com
 
 Thanks for visiting my profile!
